@@ -1,5 +1,6 @@
-![20241009_231408(487)](https://github.com/user-attachments/assets/55a59aee-0605-4e8e-917e-8a85bfd61c28)# roman-de-la-cruz-3-w-1211
+
 pruebas de envio de codigo y screenshot
+
 1- Funcion que muestre el saludo Hey amigos! cada vez que se le pida
 ![20241009_231042(154)](https://github.com/user-attachments/assets/4772d070-a465-4dc5-807f-38e5cc27cb3b)
 
