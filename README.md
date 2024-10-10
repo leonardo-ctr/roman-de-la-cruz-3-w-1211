@@ -25,10 +25,18 @@ Si se da la función sin pasarle un porcentaje de IVA, deberá aplicar un 21%.
 
 5- Calcular el área de un círculo  y el volumen 
 otra que calcule el volumen de un cilindro y utilice  primera función.
+![20241009_232349(830)](https://github.com/user-attachments/assets/9dad5831-96c6-41a2-b866-1cbcef7debc6)
+![20241009_232331(801)](https://github.com/user-attachments/assets/7ef977a7-f751-4720-97be-e2e99cf5049c)
+
 
 6- Capturar dirección de email. Desplegar mensaje si la dirección es válida o no, siendo que una función lo revisar por tener la @ solo así es valida
+![20241009_232501(41)](https://github.com/user-attachments/assets/fec51b3a-33b4-4812-a39a-0e606ceea355)
+![20241009_232437(431)](https://github.com/user-attachments/assets/846bdcdb-0bdd-4bf4-8525-73702e567b01)
+
 
 7- Función que de un string, regrese la longitud de la última palabra. Las palabras tienen separación por uno o más espacios.
+![20241009_232633(419)](https://github.com/user-attachments/assets/8d225682-8be0-4c67-b20f-ddec54d3ca69)
+
 
 8- Definir una función (), que tome tres números como argumentos y devuelva el
 mayor de ellos.
