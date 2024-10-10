@@ -36,6 +36,7 @@ otra que calcule el volumen de un cilindro y utilice  primera función.
 
 7- Función que de un string, regrese la longitud de la última palabra. Las palabras tienen separación por uno o más espacios.
 ![20241009_232633(419)](https://github.com/user-attachments/assets/8d225682-8be0-4c67-b20f-ddec54d3ca69)
+![20241009_232633(419)](https://github.com/user-attachments/assets/edb09a57-7817-4c62-a846-c42496c8fbf3)
 
 
 8- Definir una función (), que tome tres números como argumentos y devuelva el
